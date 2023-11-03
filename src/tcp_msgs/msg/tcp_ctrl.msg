@@ -1,0 +1,4 @@
+float32 velocity_l
+float32 velocity_w
+uint8 running_action
+uint8 stop_distance

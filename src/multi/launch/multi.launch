@@ -1,0 +1,5 @@
+<launch>
+
+    <node pkg="multi" type="multi" respawn="false" name="multi" output="screen"/>
+
+</launch>
